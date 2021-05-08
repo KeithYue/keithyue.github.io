@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 ## Biography
----------
 Yue Wang received his  Ph.D. degree in 2019
 from the department of [Computer Science and Engineering (CSE)](https://www.cse.ust.hk/)
 of the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/),
@@ -18,12 +17,10 @@ and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2
 
 
 ## Research Interests
----------
 Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge graphs.
 
 ## Publications 
 
----------
 ### Conference Publications
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
 `[VLDB'21]`<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. <br/>
@@ -83,19 +80,16 @@ _The VLDB Journal_, 28(1): 99-122, 2019.
 _Data Science and Engineering_, 2(4): 257-273, 2017.
 
 ## Professional Services
-------
 - Program Committee Member:
     - `[VLDB]` International Conference on Very Large Data Bases: 2022
     - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
 
 ## Teaching Experience
--------
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
 - Teaching Assistant, COMP 4311: Principles of Database Design, Fall 2015, HKUST.
 - Teaching Assistant, COMP 5331: Knowledge Discovery and Data Mining, Fall 2014, HKUST.
 
 
 ## Honors and Awards
----------
 - Postgraduate Scholarship, CSE Dept., HKUST, Annually (2014 - 2019).
 - Outstanding Graduate from Beihang University, BUAA, Jun 2013.
