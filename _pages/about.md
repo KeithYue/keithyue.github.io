@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 Research Fellow at Shenzhen Institute of Computing Sciences
+
 Email: ywangby[AT]connect.ust.hk
 
 ## Biography
@@ -86,6 +87,7 @@ _Data Science and Engineering_, 2(4): 257-273, 2017.
 - Program Committee Member:
     - `[VLDB]` International Conference on Very Large Data Bases: 2022
     - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
+
 
 ## Teaching Experience
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
