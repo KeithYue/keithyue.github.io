@@ -88,6 +88,9 @@ _Data Science and Engineering_, 2(4): 257-273, 2017.
     - `[VLDB]` International Conference on Very Large Data Bases: 2022
     - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
 
+## Research Projects
+- PI, "Data mning techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation (No. 2019A1515110473), 01/2020-12/2022.
+- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC (No. 62002235), 01.2021-12/2023.
 
 ## Teaching Experience
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
