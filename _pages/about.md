@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Biography
+## Biography
 ---------
 Yue Wang received his  Ph.D. degree in 2019
 from the department of [Computer Science and Engineering (CSE)](https://www.cse.ust.hk/)
@@ -17,16 +17,14 @@ He received his M.Sc. degree from HKUST in 2014,
 and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2013.
 
 
-### Research Interests
+## Research Interests
 ---------
-- Graph algorithms 
-- Heteogeneous graphs
-- Distributed computing
+Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge graphs.
 
-### Publications 
+## Publications 
 
 ---------
-#### Conference Publications
+### Conference Publications
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
 `[VLDB'21]`<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. <br/>
 _The 47th International Conference on Very Large Data Bases_, 2021.
@@ -64,19 +62,19 @@ _The 35th International Conference on Data Engineering_, 8-12 April 2019, Macau 
 `[ICDE'18]`<font color="blue">Efficient SimRank Tracking in Dynamic Graphs</font>.  <br/>
 _The 34th International Conference on Data Engineering_, 16-19  April 2018, Paris, France.
 
-#### Journal Publications
+### Journal Publications
 1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao.<br/>
 `[TKDE'20]` <font color="blue">Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach</font>.<br/>
 _IEEE Transactions on Knowledge and Data Engineering_, 2020.
 1. Wenfei Fan, Kun He, Qian Li, **Yue Wang**.
 <br/>`[SCIS'20]` <font color="blue">Graph Algorithms: Parallelization and Scalability</font>.<br/>
-_SCIENCE CHINA Information Sciences_, 2020.
+_SCIENCE CHINA Information Sciences_, 63, 203101 (2020).
 1. **Yue Wang**, Yulin Che, Xiang Lian, Lei Chen, Qiong Luo.
 <br/>`[TKDE'20]` <font color="blue">Fast and Accurate SimRank Computation via Forward Local Push and Its Parallelization</font>.<br/>
 _IEEE Transactions on Knowledge and Data Engineering_, 2020.
 1. **Yue Wang**, Zonghao Feng, Lei Chen, Zijian Li, Xun Jian, Qiong Luo.
 <br/>`[TKDE'19]` <font color="blue">Efficient Similarity Search for Sets over Graphs</font>.<br/>
-_IEEE Transactions on Knowledge and Data Engineering_, 2019.
+_IEEE Transactions on Knowledge and Data Engineering_, vol. 33, no. 2, pp. 444-458, 1 Feb. 2021.
 1.  **Yue Wang**, Lei Chen, Yulin Che, Qiong Luo.<br/>
 `[VLDBJ'19]`<font color="blue">Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</font>. <br/>
 _The VLDB Journal_, 28(1): 99-122, 2019. 
@@ -84,20 +82,20 @@ _The VLDB Journal_, 28(1): 99-122, 2019.
 `[DSE'17]`<font color="blue">Query Optimal k-Plex Based Community in Graphs</font>.<br/>
 _Data Science and Engineering_, 2(4): 257-273, 2017.
 
-### Professional Services
+## Professional Services
 ------
 - Program Committee Member:
     - `[VLDB]` International Conference on Very Large Data Bases: 2022
     - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
 
-### Teaching Experience
+## Teaching Experience
 -------
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
 - Teaching Assistant, COMP 4311: Principles of Database Design, Fall 2015, HKUST.
 - Teaching Assistant, COMP 5331: Knowledge Discovery and Data Mining, Fall 2014, HKUST.
 
 
-### Honors and Awards
+## Honors and Awards
 ---------
 - Postgraduate Scholarship, CSE Dept., HKUST, Annually (2014 - 2019).
 - Outstanding Graduate from Beihang University, BUAA, Jun 2013.
