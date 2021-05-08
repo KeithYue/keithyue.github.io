@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yue Wang's Homepage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,22 +28,16 @@ and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2
 ---------
 #### Conference Publications
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
-`[VLDB'21]`
-<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. 
-<br/>
+`[VLDB'21]`<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. <br/>
 _The 47th International Conference on Very Large Data Bases_, 2021.
 1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <br/>
-`[VLDB'20]`
-<font color="blue"> Optimizing DNN Computation Graph using Graph Substitutions</font>. 
-<br/>
+`[VLDB'20]`<font color="blue"> Optimizing DNN Computation Graph using Graph Substitutions</font>. <br/>
 _The 46th International Conference on Very Large Data Bases_, 2020.
 1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen. <br/>
-`[VLDB'20]`
-<font color="blue"> Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique</font>. 
-<br/>
+`[VLDB'20]`<font color="blue"> Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique</font>. <br/>
 _The 46th International Conference on Very Large Data Bases_, 2020.
 1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <br/>
-`[VLDB'20]` <font color="blue"> Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks</font>. <br/>
+`[VLDB'20]` <font color="blue"> Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks</font>.<br/>
 _The 46th International Conference on Very Large Data Bases_, 2020.
 1. Yulin Che, Zhuohang Lai, Shixuan Sun, **Yue Wang**, Qiong Luo. <br/>
 `[VLDB'20]` <font color="blue"> Accelerating Truss Decomposition on Heterogeneous Processors</font>. <br/>
@@ -63,16 +57,11 @@ _The 36th IEEE International Conference on Data Engineering_, April 20th-24th, 2
 1.  Yulin Che, Zhuohang Lai, Shixuan Sun, Qiong Luo, **Yue Wang**.<br/>
 `[ICPP'19]` <font color="blue">Accelerating All-Edge Common Neighbor Counting on Three Processors</font>.<br/>
 _The 48th International Conference on Parallel Processing_, August 5-8, 2019, Kyoto Research Park, Kyoto, Japan.
-1.  Zijian Li, Lei Chen, **Yue Wang**.
-<br/>
-`[ICDE'19]`
-<font color="blue">G*-Tree: An Efficient Spatial Index on Road Networks</font>.
-<br/>
+1.  Zijian Li, Lei Chen, **Yue Wang**.<br/>
+`[ICDE'19]`<font color="blue">G*-Tree: An Efficient Spatial Index on Road Networks</font>.<br/>
 _The 35th International Conference on Data Engineering_, 8-12 April 2019, Macau SAR, China.
-1.  **Yue Wang**, Xiang Lian, Lei Chen.
-<br/>
-`[ICDE'18]`
-<font color="blue">Efficient SimRank Tracking in Dynamic Graphs</font>.  <br/>
+1.  **Yue Wang**, Xiang Lian, Lei Chen.<br/>
+`[ICDE'18]`<font color="blue">Efficient SimRank Tracking in Dynamic Graphs</font>.  <br/>
 _The 34th International Conference on Data Engineering_, 16-19  April 2018, Paris, France.
 
 #### Journal Publications
@@ -88,17 +77,11 @@ _IEEE Transactions on Knowledge and Data Engineering_, 2020.
 1. **Yue Wang**, Zonghao Feng, Lei Chen, Zijian Li, Xun Jian, Qiong Luo.
 <br/>`[TKDE'19]` <font color="blue">Efficient Similarity Search for Sets over Graphs</font>.<br/>
 _IEEE Transactions on Knowledge and Data Engineering_, 2019.
-1.  **Yue Wang**, Lei Chen, Yulin Che, Qiong Luo.
-<br/>
-`[VLDBJ'19]`
-<font color="blue">Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</font>. 
-<br/>
+1.  **Yue Wang**, Lei Chen, Yulin Che, Qiong Luo.<br/>
+`[VLDBJ'19]`<font color="blue">Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</font>. <br/>
 _The VLDB Journal_, 28(1): 99-122, 2019. 
-1.  **Yue Wang**, Xun Jian, Zhenhua Yang, Jia Li.
-<br/>
-`[DSE'17]`
-<font color="blue">Query Optimal k-Plex Based Community in Graphs</font>.
-<br/>
+1.  **Yue Wang**, Xun Jian, Zhenhua Yang, Jia Li.<br/>
+`[DSE'17]`<font color="blue">Query Optimal k-Plex Based Community in Graphs</font>.<br/>
 _Data Science and Engineering_, 2(4): 257-273, 2017.
 
 ### Professional Services
@@ -112,8 +95,6 @@ _Data Science and Engineering_, 2(4): 257-273, 2017.
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
 - Teaching Assistant, COMP 4311: Principles of Database Design, Fall 2015, HKUST.
 - Teaching Assistant, COMP 5331: Knowledge Discovery and Data Mining, Fall 2014, HKUST.
-
-
 
 
 ### Honors and Awards
