@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: ""
+title: "Yue Wang (王越)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Research Fellow at Shenzhen Institute of Computing Sciences
+Email: ywangby[AT]connect.ust.hk
+
 ## Biography
-Yue Wang received his  Ph.D. degree in 2019
+Yue Wang received his Ph.D. degree in 2019
 from the department of [Computer Science and Engineering (CSE)](https://www.cse.ust.hk/)
 of the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/),
 supervised by [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/).
