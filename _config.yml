@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Wang"
+title                    : "Yue Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yue Wang"
 description              : &description "Research Fellow at Shenzhen Institute of Computing Sciences"
@@ -85,7 +85,7 @@ author:
   bio              : "Research Fellow at Shenzhen Institute of Computing Sciences"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Rx1RmHMAAAAJ&hl=en"
   email            : "ywangby@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
