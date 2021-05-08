@@ -1,50 +1,122 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yue Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+### Biography
+---------
+Yue Wang received his  Ph.D. degree in 2019
+from the department of [Computer Science and Engineering (CSE)](https://www.cse.ust.hk/)
+of the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/),
+supervised by [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/).
+He received his M.Sc. degree from HKUST in 2014,
+and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2013.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### Research Interests
+---------
+- Graph algorithms 
+- Heteogeneous graphs
+- Distributed computing
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Publications 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+---------
+#### Conference Publications
+1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
+`[VLDB'21]`
+<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. 
+<br/>
+_The 47th International Conference on Very Large Data Bases_, 2021.
+1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <br/>
+`[VLDB'20]`
+<font color="blue"> Optimizing DNN Computation Graph using Graph Substitutions</font>. 
+<br/>
+_The 46th International Conference on Very Large Data Bases_, 2020.
+1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen. <br/>
+`[VLDB'20]`
+<font color="blue"> Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique</font>. 
+<br/>
+_The 46th International Conference on Very Large Data Bases_, 2020.
+1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <br/>
+`[VLDB'20]` <font color="blue"> Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks</font>. <br/>
+_The 46th International Conference on Very Large Data Bases_, 2020.
+1. Yulin Che, Zhuohang Lai, Shixuan Sun, **Yue Wang**, Qiong Luo. <br/>
+`[VLDB'20]` <font color="blue"> Accelerating Truss Decomposition on Heterogeneous Processors</font>. <br/>
+_The 46th International Conference on Very Large Data Bases_, 2020.
+1. Xun Jian, **Yue Wang**, Xiayu Lei, Libin Zheng, Lei Chen. <br/>
+`[SIGMOD'20]`<font color="blue"> SPARQL Rewriting: Towards Desired Results</font>. <br/>
+_ACM SIGMOD International Conference on Management of Data_, June 14 - June 19, 2020, Portland, Oregon, USA.
+1. Xun Jian, **Yue Wang**, Xiayu Lei, Yanyan Shen, Lei Chen. <br/>
+`[DASFAA'20]`<font color="blue"> DDSL: Efficient Subgraph Listing on Distributed and Dynamic Graphs</font>. (Short Paper) <br/>
+_The 25th International Conference on Database Systems for Advanced Applications_, May 21-24, 2020, Jeju, South Korea.
+1. Zijian Li, Wenhao Zheng, Xueling Lin, Ziyuan Zhao, Zhe Wang, **Yue Wang**, Xun Jian, Lei Chen, Qiang Yan, Tiezheng Mao.<br/>
+`[ICDE'20]` <font color="blue">TransN: Heterogeneous Network Representation Learning by Translating Node Embeddings</font>. <br/>
+_The 36th IEEE International Conference on Data Engineering_, April 20th-24th, 2020, Dallas, Texas, United States.
+1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li,  Xun Jian,  Lei Chen,  Jianchun Song.<br/>
+`[ICDE'20]` <font color="blue">HowSim: A General and Effective Similarity Measure on Heterogeneous Information Networks</font>. (Short Paper)<br/>
+_The 36th IEEE International Conference on Data Engineering_, April 20th-24th, 2020, Dallas, Texas, United States.
+1.  Yulin Che, Zhuohang Lai, Shixuan Sun, Qiong Luo, **Yue Wang**.<br/>
+`[ICPP'19]` <font color="blue">Accelerating All-Edge Common Neighbor Counting on Three Processors</font>.<br/>
+_The 48th International Conference on Parallel Processing_, August 5-8, 2019, Kyoto Research Park, Kyoto, Japan.
+1.  Zijian Li, Lei Chen, **Yue Wang**.
+<br/>
+`[ICDE'19]`
+<font color="blue">G*-Tree: An Efficient Spatial Index on Road Networks</font>.
+<br/>
+_The 35th International Conference on Data Engineering_, 8-12 April 2019, Macau SAR, China.
+1.  **Yue Wang**, Xiang Lian, Lei Chen.
+<br/>
+`[ICDE'18]`
+<font color="blue">Efficient SimRank Tracking in Dynamic Graphs</font>.  <br/>
+_The 34th International Conference on Data Engineering_, 16-19  April 2018, Paris, France.
 
-Site-wide configuration
+#### Journal Publications
+1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao.<br/>
+`[TKDE'20]` <font color="blue">Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach</font>.<br/>
+_IEEE Transactions on Knowledge and Data Engineering_, 2020.
+1. Wenfei Fan, Kun He, Qian Li, **Yue Wang**.
+<br/>`[SCIS'20]` <font color="blue">Graph Algorithms: Parallelization and Scalability</font>.<br/>
+_SCIENCE CHINA Information Sciences_, 2020.
+1. **Yue Wang**, Yulin Che, Xiang Lian, Lei Chen, Qiong Luo.
+<br/>`[TKDE'20]` <font color="blue">Fast and Accurate SimRank Computation via Forward Local Push and Its Parallelization</font>.<br/>
+_IEEE Transactions on Knowledge and Data Engineering_, 2020.
+1. **Yue Wang**, Zonghao Feng, Lei Chen, Zijian Li, Xun Jian, Qiong Luo.
+<br/>`[TKDE'19]` <font color="blue">Efficient Similarity Search for Sets over Graphs</font>.<br/>
+_IEEE Transactions on Knowledge and Data Engineering_, 2019.
+1.  **Yue Wang**, Lei Chen, Yulin Che, Qiong Luo.
+<br/>
+`[VLDBJ'19]`
+<font color="blue">Accelerating Pairwise SimRank Estimation over Static and Dynamic Graphs</font>. 
+<br/>
+_The VLDB Journal_, 28(1): 99-122, 2019. 
+1.  **Yue Wang**, Xun Jian, Zhenhua Yang, Jia Li.
+<br/>
+`[DSE'17]`
+<font color="blue">Query Optimal k-Plex Based Community in Graphs</font>.
+<br/>
+_Data Science and Engineering_, 2(4): 257-273, 2017.
+
+### Professional Services
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Program Committee Member:
+    - `[VLDB]` International Conference on Very Large Data Bases: 2022
+    - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Teaching Experience
+-------
+- Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
+- Teaching Assistant, COMP 4311: Principles of Database Design, Fall 2015, HKUST.
+- Teaching Assistant, COMP 5331: Knowledge Discovery and Data Mining, Fall 2014, HKUST.
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Honors and Awards
+---------
+- Postgraduate Scholarship, CSE Dept., HKUST, Annually (2014 - 2019).
+- Outstanding Graduate from Beihang University, BUAA, Jun 2013.
