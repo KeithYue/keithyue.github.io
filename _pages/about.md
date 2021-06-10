@@ -27,11 +27,12 @@ Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge gr
 ## Professional Services
 - Program Committee Member:
     - `[VLDB]` International Conference on Very Large Data Bases: 2022
-    - `[ICKG]` IEEE International Conference on Knowledge Graph: 2021
+    - `[ICBK]` IEEE International Conference on Big Knowledge: 2021
+    - `[CIKM]` ACM International Conference on Information and Knowledge Management: 2021
 
 ## Research Projects
-- PI, "Data mning techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation (No. 2019A1515110473), 01/2020-12/2022.
-- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC (No. 62002235), 01.2021-12/2023.
+- PI, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
+- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC, 01.2021-12/2023.
 
 ## Teaching Experience
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
