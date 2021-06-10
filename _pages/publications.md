@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 ### Conference Publications
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
 `[VLDB'21]`<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. <br/>
