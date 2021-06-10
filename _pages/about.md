@@ -85,9 +85,9 @@ _Data Science and Engineering_, 2(4): 257-273, 2017.
 
 ## Professional Services
 - Program Committee Member:
-    - `[VLDB]` International Conference on Very Large Data Bases: 2022
-    - `[ICBK]` IEEE International Conference on Big Knowledge: 2021
-    - `[CIKM]` ACM International Conference on Information and Knowledge Management: 2021
+    - `[VLDB]`: 2022
+    - `[ICBK]`: 2021
+    - `[CIKM]`: 2021
 
 ## Research Projects
 - PI, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
