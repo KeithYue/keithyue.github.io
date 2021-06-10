@@ -1,9 +1,9 @@
 ---
 permalink: /
+layout: archive
 title: "Yue Wang (王越)"
 excerpt: "About me"
 author_profile: true
-layout:archive
 redirect_from: 
   - /about/
   - /about.html
