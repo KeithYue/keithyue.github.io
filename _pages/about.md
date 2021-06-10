@@ -3,7 +3,6 @@ permalink: /
 title: "Yue Wang (王越)"
 excerpt: "About me"
 author_profile: true
-layout: archive
 redirect_from: 
   - /about/
   - /about.html
@@ -26,8 +25,8 @@ Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge gr
 
 ## Publications
 ### Conference Publications
-1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <br/>
-`[VLDB'21]`<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. <br/>
+1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. 
+<font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee</font>. 
 _The 47th International Conference on Very Large Data Bases_, 2021.
 1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <br/>
 `[VLDB'20]`<font color="blue"> Optimizing DNN Computation Graph using Graph Substitutions</font>. <br/>
