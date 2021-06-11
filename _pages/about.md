@@ -29,7 +29,7 @@ Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge gr
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. 
 <font color="blue">DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee.</font>
 `[VLDB'21]`_The 47th International Conference on Very Large Data Bases_, 2021. 
-3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen.
+1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen.
 <font color="blue"> Optimizing DNN Computation Graph using Graph Substitutions</font>.
 `[VLDB'20]`_The 46th International Conference on Very Large Data Bases_, 2020.
 1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen. 
