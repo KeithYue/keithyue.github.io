@@ -28,7 +28,7 @@ Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge gr
 ### Conference Publications
 1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. "DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee". _The 47th International Conference on Very Large Data Bases_, 2021. `[VLDB'21]``[CCF A]`
 3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. "Optimizing DNN Computation Graph using Graph Substitutions". _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
-1. Alexander Zhou, **Yue Wang**, Lei Chen. "Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique". _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
+1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen. "Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique". _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
 1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen.  "Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks". _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]` `[CCF A]`
 1. Yulin Che, Zhuohang Lai, Shixuan Sun, **Yue Wang**, Qiong Luo.  "Accelerating Truss Decomposition on Heterogeneous Processors". 
 _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
