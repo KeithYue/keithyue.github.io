@@ -24,9 +24,9 @@ and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2
 ## Research Interests
 Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge graphs.
 
-## Publications
+## Publications 
 ### Conference Publications
-1. **Yue Wang**, Ruiqi Xu, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <font color="blue">"DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee".</font> _The 47th International Conference on Very Large Data Bases_, 2021. `[VLDB'21]``[CCF A]`
+1. **Yue Wang<sup>#</sup>**, Ruiqi Xu<sup>#</sup>, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <font color="blue">"DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee".</font> _The 47th International Conference on Very Large Data Bases_, 2021. `[VLDB'21]``[CCF A]`
 3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <font color="blue"> "Optimizing DNN Computation Graph using Graph Substitutions</font>". _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
 1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.  <font color="blue"> "Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique"</font>. _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[CCF A]`
 1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <font color="blue"> "Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks"</font>. _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]` `[CCF A]`
