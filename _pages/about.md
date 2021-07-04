@@ -18,7 +18,7 @@ from the department of [Computer Science and Engineering (CSE)](https://www.cse.
 of the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/),
 supervised by [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/).
 He received his M.Sc. degree from HKUST in 2014,
-and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/)  in 2013.
+and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/) in 2013.
 
 
 ## Research Interests
@@ -53,8 +53,9 @@ _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[
 - Program Committee Member: VLDB(2022), ICBK(2021), CIKM(2021)
 
 ## Research Projects
+- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC, 01/2021-12/2023.
 - PI, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
-- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC, 01.2021-12/2023.
+
 
 ## Teaching Experience
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
