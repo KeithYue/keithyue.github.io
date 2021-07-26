@@ -50,7 +50,7 @@ _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[
 
 
 ## Professional Services
-- Program Committee Member: VLDB(2022), ICBK(2021), CIKM(2021)
+- Program Committee Member: VLDB 2022, ICBK 2021, CIKM 2021.
 
 ## Research Projects
 - PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC, 01/2021-12/2023.
