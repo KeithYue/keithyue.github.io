@@ -22,7 +22,7 @@ and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/) in 20
 
 
 ## Research Interests
-Large-scale graph processing, dynamic graphs, heterognenous graphs, knowledge graphs.
+Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge graphs.
 
 ## Publications 
 ### Conference Publications
@@ -53,8 +53,8 @@ _The 46th International Conference on Very Large Data Bases_, 2020.`[VLDB'20]``[
 - Program Committee Member: VLDB 2022, ICBK 2021, CIKM 2021.
 
 ## Research Projects
-- PI, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", China NSFC, 01/2021-12/2023.
-- PI, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
+- **PI**, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", National Natural Science Foundation of China, 01/2021-12/2023.
+- **PI**, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
 
 
 ## Teaching Experience
