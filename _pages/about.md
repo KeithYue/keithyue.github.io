@@ -41,7 +41,7 @@ _The 46th International Conference on Very Large Data Bases_, 2020.**`[VLDB'20]`
 6.  **Yue Wang**, Xiang Lian, Lei Chen. <font color="blue">"Efficient SimRank Tracking in Dynamic Graphs"</font>. _The 34th International Conference on Data Engineering_, 16-19  April 2018, Paris, France.**`[ICDE'18]``[CCF A]`**
 
 ### Journal Publications
-1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao. <font color="blue">"Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach"</font>._IEEE Transactions on Knowledge and Data Engineering_, 2020.`[TKDE'20]` `[CCF A]`
+1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao. <font color="blue">"Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach"</font>._IEEE Transactions on Knowledge and Data Engineering_, 2020.**`[TKDE'20]` `[CCF A]`**
 1. Wenfei Fan, Kun He, Qian Li, **Yue Wang**. <font color="blue">"Graph Algorithms: Parallelization and Scalability"</font>. _SCIENCE CHINA Information Sciences_, 63, 203101 (2020).**`[SCIS'20]``[CCF B]`**
 1. **Yue Wang**, Yulin Che, Xiang Lian, Lei Chen, Qiong Luo. <font color="blue">"Fast and Accurate SimRank Computation via Forward Local Push and Its Parallelization"</font>. _IEEE Transactions on Knowledge and Data Engineering_, 2020.**`[TKDE'20]` `[CCF A]`**
 1. **Yue Wang**, Zonghao Feng, Lei Chen, Zijian Li, Xun Jian, Qiong Luo. <font color="blue">"Efficient Similarity Search for Sets over Graphs"</font>._IEEE Transactions on Knowledge and Data Engineering_, vol. 33, no. 2, pp. 444-458, 1 Feb. 2021.**`[TKDE'19]``[CCF A]`**
