@@ -55,8 +55,8 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 - Program Committee Member: VLDB 2022, ICBK 2021, CIKM 2021.
 
 ## Research Projects
-- **PI**, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", National Natural Science Foundation of China, 01/2021-12/2023.
-- **PI**, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
+- **Principal Investigator**, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", National Natural Science Foundation of China, 01/2021-12/2023.
+- **Principal Investigator**, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
 
 
 ## Teaching Experience
