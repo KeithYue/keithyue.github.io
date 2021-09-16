@@ -26,8 +26,8 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 
 ## Publications 
 ### Conference Publications
-3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <font color="blue"> "Heracles: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse".</font> _The 46th International Conference on Very Large Data Bases_, 2020. **`[VLDB'22]``[CCF A]`**
-1. Alexander Zhou, **Yue Wang**, Lei Chen.  <font color="blue"> "Butterfly Counting on Uncertain Bipartite Networks"</font>. _The 46th International Conference on Very Large Data Bases_, 2020.**`[VLDB'22]``[CCF A]`**
+3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <font color="blue"> "Heracles: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse".</font> _The 48th International Conference on Very Large Data Bases_, 2022. **`[VLDB'22]``[CCF A]`**
+1. Alexander Zhou, **Yue Wang**, Lei Chen.  <font color="blue"> "Butterfly Counting on Uncertain Bipartite Networks"</font>. _The 48th International Conference on Very Large Data Bases_, 2022.**`[VLDB'22]``[CCF A]`**
 1. **Yue Wang<sup>#</sup>**, Ruiqi Xu<sup>#</sup>, Zonghao Feng, Yulin Che, Lei Chen, Qiong Luo, Rui Mao. <font color="blue">"DISK: A Distributed Framework for Single-Source SimRank with Accuracy Guarantee".</font> _The 47th International Conference on Very Large Data Bases_, 2021. **`[VLDB'21]``[CCF A]`**
 3. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <font color="blue"> "Optimizing DNN Computation Graph using Graph Substitutions</font>".</font> _The 46th International Conference on Very Large Data Bases_, 2020. **`[VLDB'20]``[CCF A]`**
 1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.  <font color="blue"> "Finding Large Diverse Communities on Networks: The Edge Maximum k*-Partite Clique"</font>. _The 46th International Conference on Very Large Data Bases_, 2020.**`[VLDB'20]``[CCF A]`**
