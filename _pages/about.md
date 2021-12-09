@@ -43,7 +43,7 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 6.  **Yue Wang**, Xiang Lian, Lei Chen. <font color="blue">"Efficient SimRank Tracking in Dynamic Graphs"</font>. _The 34th International Conference on Data Engineering_(**ICDE**), 16-19  April 2018, Paris, France.
 
 ### Journal Publications
-1. Xun Jian, **Yue Wang**, Lei Chen. <font color="blue">"Publishing Graphs under Node Differential Privacy"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), 2021.
+1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <font color="blue">"Publishing Graphs under Node Differential Privacy"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), 2021.
 1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao. <font color="blue">"Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), 2020.
 1. Wenfei Fan, Kun He, Qian Li, **Yue Wang**. <font color="blue">"Graph Algorithms: Parallelization and Scalability"</font>. _SCIENCE CHINA Information Sciences_(**SCIS**), 63, 203101 (2020).
 1. **Yue Wang**, Yulin Che, Xiang Lian, Lei Chen, Qiong Luo. <font color="blue">"Fast and Accurate SimRank Computation via Forward Local Push and Its Parallelization"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), vol. 33, no. 12, pp. 3686-3700, 1 Dec. 2021.
