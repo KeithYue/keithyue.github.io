@@ -26,6 +26,7 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 
 ## Publications 
 ### Conference Publications
+1. Zhiyuan Li, Xun Jian, **Yue Wang**, Lei Chen. <font color="blue">"CC-GNN: A Community and Contraction-basedGraph Neural Network".</font> _The 22nd IEEE International Conference on Data Mining_(**ICDM**), 2022.
 1. **Yue Wang<sup>#</sup>**, Ruiqi Xu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Towards Distributed Bitruss Decomposition on Bipartite Graphs".</font> _The 48th International Conference on Very Large Data Bases_(**VLDB**), 2022.
 1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen. <font color="blue"> "ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse".</font> _The 48th International Conference on Very Large Data Bases_(**VLDB**), 2022. 
 1. Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.  <font color="blue"> "Butterfly Counting on Uncertain Bipartite Networks"</font>. _The 48th International Conference on Very Large Data Bases_(**VLDB**), 2022.
