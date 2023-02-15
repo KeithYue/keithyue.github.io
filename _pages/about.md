@@ -13,12 +13,12 @@ Research Fellow at Shenzhen Institute of Computing Sciences
 Email: ywangby[AT]connect.ust.hk
 
 ## Biography
-Yue Wang received his Ph.D. degree in 2019
+Yue Wang received his Ph.D. degree 
 from the department of [Computer Science and Engineering (CSE)](https://www.cse.ust.hk/)
 of the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/),
 supervised by [Prof. Lei Chen](http://www.cse.ust.hk/~leichen/).
-He received his M.Sc. degree from HKUST in 2014,
-and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/) in 2013.
+He received his M.Sc. degree from HKUST,
+and B.Eng. degree from [Beihang University (BUAA)](http://ev.buaa.edu.cn/).
 
 
 ## Research Interests
