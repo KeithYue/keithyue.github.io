@@ -69,5 +69,5 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 
 
 ## Honors and Awards
-- Postgraduate Scholarship, CSE Dept., HKUST, Annually (2014 - 2019).
-- Outstanding Graduate from Beihang University, BUAA, Jun 2013.
+- Postgraduate Scholarship, CSE Dept., HKUST.
+- Outstanding Graduate from Beihang University, BUAA.
