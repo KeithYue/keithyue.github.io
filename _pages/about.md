@@ -26,7 +26,7 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 
 ## Publications 
 ### Conference Publications
-1. Kai Hiu Chung, Alexander Zhou, Yue Wang, Lei Chen.<font color="blue">"Maximum Balanced $(k, \epsilon)$-Bitruss Detection in Signed Bipartite Graph".</font> _The 49th International Conference on Very Large Data Bases_(**VLDB**), 2024.
+1. Kai Hiu Chung, Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.<font color="blue">"Maximum Balanced $(k, \epsilon)$-Bitruss Detection in Signed Bipartite Graph".</font> _The 49th International Conference on Very Large Data Bases_(**VLDB**), 2024.
 1. Anxin Tian, Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.<font color="blue">"Maximal D-truss Search in Dynamic Directed Graphs".</font> _The 49th International Conference on Very Large Data Bases_(**VLDB**), 2023.
 1. Zhiyuan Li, Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <font color="blue">"CC-GNN: A Community and Contraction-based Graph Neural Network".</font> _The 22nd IEEE International Conference on Data Mining_(**ICDM**), 2022.
 1. **Yue Wang<sup>#</sup>**, Ruiqi Xu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Towards Distributed Bitruss Decomposition on Bipartite Graphs".</font> _The 48th International Conference on Very Large Data Bases_(**VLDB**), 2022.
