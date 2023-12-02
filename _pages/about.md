@@ -26,7 +26,7 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 
 ## Publications 
 ### Conference Publications
-1. Alexander Zhou, Yue Wang, Lei Chen, Tamer Özsu.<font color="blue">"Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach".</font>_40th IEEE International Conference on Data Engineering_(**ICDE**), Utrecht, Netherlands, May 13-16th, 2024.
+1. Alexander Zhou, **Yue Wang**, Lei Chen, Tamer Özsu.<font color="blue">"Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach".</font>_40th IEEE International Conference on Data Engineering_(**ICDE**), Utrecht, Netherlands, May 13-16th, 2024.
 1. Jingzhi Fang, Yanyan Shen, **Yue Wang**, Lei Chen.<font color="blue">"
 STile: Searching Hybrid Sparse Formats for Sparse Deep Learning Operators Automatically".</font> _2024 ACM SIGMOD/PODS Conference_(**SIGMOD**), Santiago, Chile, on June 9 - June 15, 2024.
 1. Kai Hiu Chung, Alexander Zhou, **Yue Wang<sup>*</sup>**, Lei Chen.<font color="blue">"Maximum Balanced $(k, \epsilon)$-Bitruss Detection in Signed Bipartite Graph".</font> _The 49th International Conference on Very Large Data Bases_(**VLDB**), 2024.
