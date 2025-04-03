@@ -27,7 +27,7 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 ## Publications 
 ### Conference Publications
 1. Liping Wang, Xujia Li, Jingshu Peng, **Yue Wang**, Chen Zhang, Yan Zhou, Lei Chen. <font color="blue">"N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning".</font> _The Thirteenth International Conference on Learning Representations_(**ICLR**), Singapore EXPO, Thu Apr 24 – Mon Apr 28th, 2025. 
-1. Mengyi Yan, Yaoshu Wang, **Yue Wang**, Xiaoye Miao, Jianxin Li.<font color="blue">"GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models".</font> _2024 ACM SIGMOD/PODS Conference_(**SIGMOD**), June 22-27, 2025   Berlin, Germany. 
+1. Mengyi Yan, Yaoshu Wang, **Yue Wang**, Xiaoye Miao, Jianxin Li.<font color="blue">"GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models".</font> _2024 ACM SIGMOD/PODS Conference_(**SIGMOD**), June 22-27, 2025, Berlin, Germany. 
 1. Anxin Tian, Alexander Zhou, **Yue Wang<sup>*</sup>**, Xun Jian, Lei Chen. <font color="blue">"Efficient Index for Temporal Core Queries over Bipartite Graphs".</font> _The 50th International Conference on Very Large Data Bases_(**VLDB**), 2024.
 1. Ruiqi Xu, **Yue Wang**, Xiaokui Xiao.<font color="blue">"Graph Computation with Adaptive Granularity".</font> _40th IEEE International Conference on Data Engineering_(**ICDE**), Utrecht, Netherlands, May 13-17th, 2024.
 1. Alexander Zhou, **Yue Wang**, Lei Chen, Tamer Özsu.<font color="blue">"Positive Communities on Signed Graphs That Are Not Echo Chambers: A Clique-Based Approach".</font> _40th IEEE International Conference on Data Engineering_(**ICDE**), Utrecht, Netherlands, May 13-17th, 2024.
