@@ -72,7 +72,7 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 - **Principal Investigator**, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", National Natural Science Foundation of China, 01/2021-12/2023.
 - **Principal Investigator**, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
 
-
+<!--
 ## Teaching Experience
 - Teaching Assistant, COMP 4332 (RMBI 4310): Big Data Mining, Spring 2015 & 2016, HKUST.
 - Teaching Assistant, COMP 4311: Principles of Database Design, Fall 2015, HKUST.
@@ -82,3 +82,4 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 ## Honors and Awards
 - Postgraduate Scholarship, CSE Dept., HKUST.
 - Outstanding Graduate from Beihang University, BUAA.
+-->
