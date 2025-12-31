@@ -26,6 +26,7 @@ Large-scale graph processing, dynamic graphs, heterogeneous graphs, knowledge gr
 
 ## Publications 
 ### Conference Publications
+1. Hanmo Liu, Shimin Di, Haoyang LI, Xun Jian, **Yue Wang**, Lei Chen. <font color="blue">"A Selective Learning Method for Temporal Graph Continual Learning".</font> _Fourty-Third International Conference on Machine Learning_(**ICML**), 2025. 
 1. Liping Wang, Xujia Li, Jingshu Peng, **Yue Wang**, Chen Zhang, Yan Zhou, Lei Chen. <font color="blue">"N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning".</font> _The Thirteenth International Conference on Learning Representations_(**ICLR**), Singapore EXPO, Thu Apr 24 – Mon Apr 28th, 2025. 
 1. Mengyi Yan, Yaoshu Wang, **Yue Wang**, Xiaoye Miao, Jianxin Li.<font color="blue">"GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models".</font> _2024 ACM SIGMOD/PODS Conference_(**SIGMOD**), June 22-27, 2025, Berlin, Germany. 
 1. Anxin Tian, Alexander Zhou, **Yue Wang<sup>*</sup>**, Xun Jian, Lei Chen. <font color="blue">"Efficient Index for Temporal Core Queries over Bipartite Graphs".</font> _The 50th International Conference on Very Large Data Bases_(**VLDB**), 2024.
@@ -55,6 +56,7 @@ _The 46th International Conference on Very Large Data Bases_(**VLDB**), 2020.
 6.  **Yue Wang**, Xiang Lian, Lei Chen. <font color="blue">"Efficient SimRank Tracking in Dynamic Graphs"</font>. _The 34th International Conference on Data Engineering_(**ICDE**), 16-19  April 2018, Paris, France.
 
 ### Journal Publications
+1. Anxin Tian, Alexander Zhou, **Yue Wang**, Xun Jian, Lei Chen, Yan Zhou, Chen Zhang. <font color="blue"> "Distributed Truss Decomposition over Large Directed Graphs"</font>.  _The VLDB Journal_(**VDLB J**), 2025.
 1. Alexander Zhou, **Yue Wang**, Lei Chen.  <font color="blue"> "Butterfly counting and bitruss decomposition on uncertain bipartite graphs"</font>. _The VLDB Journal_(**VDLB J**), 2023.
 1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <font color="blue">"Publishing Graphs under Node Differential Privacy"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), 2021.
 1. **Yue Wang**, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Hao Xin, Lei Chen, Jianchun Song, Zhenhong Chen, Meng Zhao. <font color="blue">"Effective Similarity Search on Heterogeneous Networks: A Meta-path Free Approach"</font>. _IEEE Transactions on Knowledge and Data Engineering_(**TKDE**), 2020.
